@@ -10,8 +10,6 @@ botoes.forEach((botao, indice) => {
 
         botao.classList.add("selecionado");
 
-
-
         personagens[indice].classList.add("selecionado");
     });
 });
